@@ -1,4 +1,4 @@
-package syed.abdullah.demo.controller;
+package ravi.prakash.demo.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
@@ -6,11 +6,11 @@ import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import syed.abdullah.demo.dto.MaxSaleDate;
-import syed.abdullah.demo.dto.SaleAmount;
-import syed.abdullah.demo.entity.Product;
-import syed.abdullah.demo.entity.Wishlist;
-import syed.abdullah.demo.service.EcommerceService;
+import ravi.prakash.demo.dto.MaxSaleDate;
+import ravi.prakash.demo.dto.SaleAmount;
+import ravi.prakash.demo.entity.Product;
+import ravi.prakash.demo.entity.Wishlist;
+import ravi.prakash.demo.service.EcommerceService;
 
 import java.time.LocalDate;
 import java.util.List;
