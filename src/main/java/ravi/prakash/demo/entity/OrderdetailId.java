@@ -1,4 +1,4 @@
-package syed.abdullah.demo.entity;
+package ravi.prakash.demo.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;

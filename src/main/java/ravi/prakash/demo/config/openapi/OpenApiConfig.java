@@ -1,4 +1,4 @@
-package syed.abdullah.demo.config.openapi;
+package ravi.prakash.demo.config.openapi;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Info;

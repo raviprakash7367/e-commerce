@@ -1,4 +1,4 @@
-package syed.abdullah.demo;
+package ravi.prakash.demo;
 
 import org.springframework.boot.SpringApplication;
 

@@ -1,9 +1,8 @@
-package syed.abdullah.demo.entity;
+package ravi.prakash.demo.entity;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 import lombok.*;
-import org.hibernate.annotations.Type;
 
 import java.io.Serializable;
 import java.time.LocalDate;

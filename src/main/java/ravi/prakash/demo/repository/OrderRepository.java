@@ -1,11 +1,11 @@
-package syed.abdullah.demo.repository;
+package ravi.prakash.demo.repository;
 
 import io.swagger.v3.oas.annotations.Hidden;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
-import syed.abdullah.demo.entity.Order;
+import ravi.prakash.demo.entity.Order;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

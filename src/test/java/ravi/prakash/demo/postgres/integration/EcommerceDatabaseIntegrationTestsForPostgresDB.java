@@ -1,15 +1,14 @@
-package syed.abdullah.demo.postgres.integration;
+package ravi.prakash.demo.postgres.integration;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Transactional;
-import syed.abdullah.demo.AbstractIntegrationTest;
-import syed.abdullah.demo.entity.Product;
-import syed.abdullah.demo.entity.Wishlist;
-import syed.abdullah.demo.exception.DataNotFoundException;
-import syed.abdullah.demo.repository.WishlistRepository;
-import syed.abdullah.demo.service.EcommerceService;
+import ravi.prakash.demo.entity.Product;
+import ravi.prakash.demo.entity.Wishlist;
+import ravi.prakash.demo.exception.DataNotFoundException;
+import ravi.prakash.demo.repository.WishlistRepository;
+import ravi.prakash.demo.service.EcommerceService;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

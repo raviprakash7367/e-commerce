@@ -1,4 +1,4 @@
-package syed.abdullah.demo;
+package ravi.prakash.demo;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.springframework.boot.test.context.SpringBootTest;

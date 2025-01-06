@@ -1,4 +1,4 @@
-package syed.abdullah.demo.exception;
+package ravi.prakash.demo.exception;
 
 import jakarta.persistence.EntityNotFoundException;
 import lombok.extern.slf4j.Slf4j;

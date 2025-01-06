@@ -1,4 +1,4 @@
-package syed.abdullah.demo.entity;
+package ravi.prakash.demo.entity;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;

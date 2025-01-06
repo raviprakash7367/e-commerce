@@ -1,4 +1,4 @@
-package syed.abdullah.demo.exception;
+package ravi.prakash.demo.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

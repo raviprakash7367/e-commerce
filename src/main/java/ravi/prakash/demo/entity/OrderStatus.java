@@ -1,4 +1,4 @@
-package syed.abdullah.demo.entity;
+package ravi.prakash.demo.entity;
 
 public enum OrderStatus {
     SHIPPED("Shipped"),

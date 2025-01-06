@@ -1,4 +1,4 @@
-package syed.abdullah.demo.dto;
+package ravi.prakash.demo.dto;
 
 import java.time.LocalDate;
 

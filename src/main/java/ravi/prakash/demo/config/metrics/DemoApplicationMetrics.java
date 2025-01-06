@@ -1,4 +1,4 @@
-package syed.abdullah.demo.config.metrics;
+package ravi.prakash.demo.config.metrics;
 
 
 import io.micrometer.core.instrument.Counter;

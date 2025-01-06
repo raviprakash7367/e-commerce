@@ -1,20 +1,17 @@
-package syed.abdullah.demo.web;
+package ravi.prakash.demo.web;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.web.client.TestRestTemplate;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.test.context.ActiveProfiles;
-import syed.abdullah.demo.AbstractControllerTest;
-import syed.abdullah.demo.AbstractIntegrationTest;
-import syed.abdullah.demo.dto.MaxSaleDate;
-import syed.abdullah.demo.dto.SaleAmount;
-import syed.abdullah.demo.entity.Wishlist;
-import syed.abdullah.demo.exception.ErrorDetails;
+import ravi.prakash.demo.AbstractControllerTest;
+import ravi.prakash.demo.dto.MaxSaleDate;
+import ravi.prakash.demo.dto.SaleAmount;
+import ravi.prakash.demo.entity.Wishlist;
+import ravi.prakash.demo.exception.ErrorDetails;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

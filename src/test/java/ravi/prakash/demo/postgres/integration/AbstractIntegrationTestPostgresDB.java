@@ -1,4 +1,4 @@
-package syed.abdullah.demo.postgres.integration;
+package ravi.prakash.demo.postgres.integration;
 
 import org.junit.jupiter.api.BeforeAll;
 import org.springframework.boot.test.context.SpringBootTest;

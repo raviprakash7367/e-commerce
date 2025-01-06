@@ -1,4 +1,4 @@
-package syed.abdullah.demo.repository;
+package ravi.prakash.demo.repository;
 
 import io.swagger.v3.oas.annotations.Hidden;
 import org.springframework.data.domain.Limit;
@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
-import syed.abdullah.demo.entity.Product;
+import ravi.prakash.demo.entity.Product;
 
 import java.time.LocalDate;
 import java.util.List;

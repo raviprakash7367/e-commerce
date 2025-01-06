@@ -1,4 +1,4 @@
-package syed.abdullah.demo.exception;
+package ravi.prakash.demo.exception;
 
 public class DataNotFoundException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package syed.abdullah.demo.service;
+package ravi.prakash.demo.service;
 
 import io.micrometer.observation.annotation.Observed;
 import jakarta.persistence.EntityNotFoundException;
@@ -7,19 +7,18 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.Limit;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import syed.abdullah.demo.entity.Customer;
-import syed.abdullah.demo.entity.Product;
-import syed.abdullah.demo.entity.Wishlist;
-import syed.abdullah.demo.exception.DataNotFoundException;
-import syed.abdullah.demo.repository.CustomerRepository;
-import syed.abdullah.demo.repository.OrderRepository;
-import syed.abdullah.demo.repository.ProductRepository;
-import syed.abdullah.demo.repository.WishlistRepository;
+import ravi.prakash.demo.entity.Customer;
+import ravi.prakash.demo.entity.Product;
+import ravi.prakash.demo.entity.Wishlist;
+import ravi.prakash.demo.exception.DataNotFoundException;
+import ravi.prakash.demo.repository.CustomerRepository;
+import ravi.prakash.demo.repository.OrderRepository;
+import ravi.prakash.demo.repository.ProductRepository;
+import ravi.prakash.demo.repository.WishlistRepository;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.YearMonth;
-import java.time.format.DateTimeFormatter;
 import java.util.List;
 import java.util.Optional;
 import java.util.Set;
